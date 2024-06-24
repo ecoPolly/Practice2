@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Black Rhinoceros data
 
 Data source:
@@ -39,3 +40,6 @@ You can execute tests locally on the python file:
 mypy exam.py
 python -m doctest exam.py
 ```
+=======
+# Practice-
+>>>>>>> df2f27d5b2a02c7a12afa45297085e5fdd007a6a
